@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>055B0CFA-3DDC-4C16-88E5-E7B8A88D8031</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>055B0CFA-3DDC-4C16-88E5-E7B8A88D8031.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactNativeCodePush project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactNativeCodePush</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ReactNativeCodePush with scheme ReactNativeCodePush and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>560862951.15940106</real>
+			<key>timeStoppedRecording</key>
+			<real>560862957.01537704</real>
+			<key>title</key>
+			<string>Building project ReactNativeCodePush with scheme ReactNativeCodePush and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>055B0CFA-3DDC-4C16-88E5-E7B8A88D8031</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
